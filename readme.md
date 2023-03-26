@@ -1,7 +1,7 @@
-## Rock, Paper, Scissors
+## Rock, Paper, Scissors Game
 
 Program for **Rock, Paper, Scissors** game.    
-It's a part of the **#100DaysOfCode** challenge by *Angela Yu*.    
+###### It's a part of the **#100DaysOfCode** challenge by *Angela Yu*. ######   
 
 
 #### Basic Rules
@@ -36,11 +36,11 @@ Look at the rules on [youtube.com](https://www.youtube.com/watch?v=o3DbTquqgCY)
 
 
 #### Prerequisites
-You will need the following software to run the task manager:
+You will need the following software to run the "Rock, Paper, Scissors Game":
  - [Python 3](https://www.python.org/downloads/)
 
 #### Installation
-To get started with the **"Rock, Paper, Scissors (Lizard, Spock)"**, follow these steps:
+To get started with the **"Rock, Paper, Scissors Game"**, follow these steps:
 
 1. **Clone** the repository:
 
